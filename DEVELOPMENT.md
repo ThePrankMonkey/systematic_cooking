@@ -12,7 +12,10 @@ I'm using this to practice a couple new topics:
 - [ ] Database
   - [ ] Recipes
     - [ ] Needed ingredients
+      - Scalable
+      - Should this just parse from the steps?
     - [ ] Needed equipment
+      - Should this just parse from the steps?
     - [ ] Steps
       - [ ] Photos
       - [ ] Instructions
@@ -25,6 +28,9 @@ I'm using this to practice a couple new topics:
       - [ ] Duration
       - [ ] Duration Scale Multiplier
         - Some steps double in time if you double ingredients, some don't.
+      - [ ] Reason
+        - Give cool science reason for why a step is performed.
+    - [ ] Source
   - [ ] Inventory
     - [ ] Ingredients
     - [ ] Equipment
@@ -41,6 +47,7 @@ I'm using this to practice a couple new topics:
 - [ ] Frontend
   - [ ] List recipes
   - [ ] View recipe
+    - [ ] Select Scale
     - [ ] Start timers and have alerts
     - [ ] Print recipe
   - [ ] Affiliate links
