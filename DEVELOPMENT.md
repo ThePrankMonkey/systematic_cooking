@@ -10,12 +10,14 @@ I'm using this to practice a couple new topics:
 ## Features
 
 - [ ] Database
+  - [ ] Multicomponent Meals
+    - These are basically combined recipes. Like Chicken Caesar Salad = Grilled Chicken + Caesar Salad.
   - [ ] Recipes
     - [ ] Needed ingredients
       - Scalable
-      - Should this just parse from the steps?
+      - Should this just parse from the steps? No.
     - [ ] Needed equipment
-      - Should this just parse from the steps?
+      - Should this just parse from the steps? Maybe.
     - [ ] Steps
       - [ ] Photos
       - [ ] Instructions
@@ -30,20 +32,41 @@ I'm using this to practice a couple new topics:
         - Some steps double in time if you double ingredients, some don't.
       - [ ] Reason
         - Give cool science reason for why a step is performed.
+    - [ ] Notes
+      - Pull from USER
     - [ ] Source
   - [ ] Inventory
+    - These are per household? Per user?
     - [ ] Ingredients
-    - [ ] Equipment
+      - [ ] Name
+      - [ ] Location
+      - [ ] Expiratation date
       - [ ] Affiliate Links
+    - [ ] Equipment
+      - [ ] Name
+      - [ ] Location
+      - [ ] Type
+      - [ ] Capacity
+      - [ ] Affiliate Links
+      - [ ] Brand/Model?
+        - Could be useful for tracking recalls...
   - [ ] User
   - [ ] User Notes
+    - [ ] Recipe
+    - [ ] Step
+      - Step 0 is for the whole Recipe
+    - [ ] Content
   - [ ] User Favorites
+    - [ ] User ID
+    - [ ] Recipe ID
 - [ ] Backend
   - [ ] Return recipe names
   - [ ] Return recipe
   - [ ] Produce gantt from recipe
   - [ ] Add personal notes to recipes
   - [ ] Find recipes that match current inventory
+  - [ ] Using a recipe subtracts from inventory
+  - [ ] Override current inventory
 - [ ] Frontend
   - [ ] List recipes
   - [ ] View recipe
@@ -51,6 +74,7 @@ I'm using this to practice a couple new topics:
     - [ ] Start timers and have alerts
     - [ ] Print recipe
   - [ ] Affiliate links
+  - [ ] Inventory maintenance
 - [ ] Phone App
   - **TBD**
 
