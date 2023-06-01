@@ -39,7 +39,8 @@ I'm using this to practice a couple new topics:
     - These are per household? Per user?
     - [ ] Ingredients
       - [ ] Name
-      - [ ] Location
+      - [ ] Grocery Category
+      - [ ] Inventory Location
       - [ ] Expiratation date
       - [ ] Affiliate Links
     - [ ] Equipment
@@ -73,6 +74,7 @@ I'm using this to practice a couple new topics:
     - [ ] Select Scale
     - [ ] Start timers and have alerts
     - [ ] Print recipe
+    - [ ] Create Shopping List
   - [ ] Affiliate links
   - [ ] Inventory maintenance
 - [ ] Phone App
@@ -101,8 +103,20 @@ Regardless of the cloud hosting, you should just need to push your containers up
 - [ ] RDS
 - [ ] IAM Role
 - [ ] Secrets Manager
+- [ ] ECR
 - [ ] ElasticBeanStalk
 
 ### Microsoft Azure
+
+**TBD**
+
+## Releasing App
+
+### Android
+
+- https://medium.com/geekculture/react-native-generate-apk-debug-and-release-apk-4e9981a2ea51
+- https://medium.com/@alexzaitsev/android-apk-signing-using-environment-variables-d7d0aa2653b0
+
+### iOS
 
 **TBD**
