@@ -70,6 +70,9 @@ I'm using this to practice a couple new topics:
   - [ ] Override current inventory
 - [ ] Frontend
   - [ ] List recipes
+  - [ ] Search Recipe
+    - [ ] Search by Ingredient
+    - [ ] Search by Meal Type
   - [ ] View recipe
     - [ ] Select Scale
     - [ ] Start timers and have alerts
@@ -77,6 +80,8 @@ I'm using this to practice a couple new topics:
     - [ ] Create Shopping List
   - [ ] Affiliate links
   - [ ] Inventory maintenance
+  - [ ] UI Notes
+    - Looks like a menu???
 - [ ] Phone App
   - **TBD**
 
